@@ -102,3 +102,6 @@ Let's keep our inboxes spam-free and our communications secure.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abidemi-avoseh-811b7615a/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/avoseh_emma)
+
+
+[text](media)
