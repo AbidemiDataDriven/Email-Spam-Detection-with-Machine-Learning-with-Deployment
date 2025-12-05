@@ -79,21 +79,18 @@ In conclusion, this project has demonstrated that machine learning, combined wit
 Email inboxes are now a safer place, thanks to the successful implementation of our email spam detection system. As we conclude this project, we look forward to continued improvements and innovations in email security.
 
 Let's keep our inboxes spam-free and our communications secure.
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8f716606-dc73-4d86-a020-23fd45d6cd7a" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/097a63f4-a73e-4878-aaaa-b96fc9427028" />
+
+
+
 
 ## ♥️🔌Powered by 
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 <!-- ![Python 3.8](https://img.shields.io/badge/Python-3.8-brightgreen.svg) -->
-
-
-<video controls src="Screen Recording 2025-12-02 at 3.59.46 PM.mov" title=""></video>
-
-![alt text](<Screenshot 2025-12-02 at 4.02.49 PM-1.png>)
-![alt text](<Screenshot 2025-12-02 at 4.03.01 PM.png>)
-![alt text](<Screenshot 2025-12-02 at 4.02.49 PM-2.png>)
-
-
 ---
 
 ## 👨‍💻 **Abidemi Avoseh**
